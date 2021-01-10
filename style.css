@@ -75,3 +75,18 @@ a {
     padding: 25px;
     align-items: center;
 }
+
+.skills-info {
+    display: inline-block;
+    padding: 25px;
+    
+}
+
+.skills-img {
+    height: 100px;
+}
+
+.skill-title {
+    text-align: center;
+    /* align-items: center; */
+}
