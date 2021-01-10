@@ -10,7 +10,6 @@ body {
 }
 
 .intro-left {
-    background: url();
     position: fixed;
     left: 0;
     width: 33%;
@@ -20,6 +19,9 @@ body {
 @media (max-width: 760px) {
     .intro-left {
         height: 30vh;
+        margin-bottom: 0;
+        position: relative;
+        width: 100%;
 
     }
 }
@@ -61,4 +63,15 @@ a {
     z-index: -1;
     position: fixed;
     clip-path: polygon(36% 0, 95% 0, 65% 100%, 18% 100%);
+}
+
+.icons {
+    font-size: 2.5rem;
+    align-items: center;
+}
+
+.contact-info {
+    display: inline-block;
+    padding: 25px;
+    align-items: center;
 }
