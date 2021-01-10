@@ -47,7 +47,7 @@ section {
 }
 
 .project-image {
-    border: 1px solid #444;
+    border: .5px solid #444;
 
 }
 
@@ -76,17 +76,16 @@ a {
     align-items: center;
 }
 
-.skills-info {
+.skill-info {
     display: inline-block;
     padding: 25px;
     
 }
 
-.skills-img {
+.skill-img {
     height: 100px;
 }
 
 .skill-title {
     text-align: center;
-    /* align-items: center; */
 }
