@@ -89,3 +89,7 @@ a {
 .skill-title {
     text-align: center;
 }
+
+.clear {
+    background-color: transparent;
+}
