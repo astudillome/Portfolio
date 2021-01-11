@@ -26,6 +26,13 @@ body {
     }
 }
 
+@media (max-width: 760px) {
+    img.logo-position {
+        width: 85%;
+        height: 100%;
+    }
+}
+
 .headshot {
     width: 10rem;
     height: 10rem;
@@ -76,10 +83,13 @@ a {
     align-items: center;
 }
 
+#skills {
+    align-items: center;
+}
+
 .skill-info {
     display: inline-block;
     padding: 25px;
-    
 }
 
 .skill-img {
