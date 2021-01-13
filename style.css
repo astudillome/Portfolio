@@ -98,13 +98,9 @@ a {
 }
 
 .skill-img {
-    height: 100px;
+    height: 85px;
 }
 
 .skill-title {
     text-align: center;
-}
-
-.nav-link {
-    color: green;
 }
